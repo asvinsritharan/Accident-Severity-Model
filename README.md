@@ -1,4 +1,4 @@
-# Capstone-Project
+# Accident-Severity-Model
 
 This is a full report on my findings when creating a model for prediciting the severity of an accident.
 
