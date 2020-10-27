@@ -1,6 +1,6 @@
 # Accident-Severity-Model
 
-This is a full report on my findings when creating a model for prediciting the severity of an accident.
+This is a full report on my findings when creating a model for predicting the severity of an accident.
 
 The data used is collected from the IBM Capstone Project and is based in Seattle
 
